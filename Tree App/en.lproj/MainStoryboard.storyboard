@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="7706" systemVersion="14E46" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" initialViewController="4">
+    <dependencies>
+        <deployment version="1536" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+    </dependencies>
+    <scenes>
+        <!--Tab Bar Controller-->
+        <scene sceneID="15">
+            <objects>
+                <tabBarController id="4" sceneMemberID="viewController">
+                    <nil key="simulatedBottomBarMetrics"/>
+                    <tabBar key="tabBar" contentMode="scaleToFill" id="5">
+                        <rect key="frame" x="0.0" y="431" width="320" height="49"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        <color key="selectedImageTintColor" red="0.25098040699958801" green="0.50196081399917603" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    </tabBar>
+                    <connections>
+                        <segue destination="zO6-Df-0ir" kind="relationship" relationship="viewControllers" id="9xq-GM-p0g"/>
+                        <segue destination="LEZ-wc-7dq" kind="relationship" relationship="viewControllers" id="mqQ-7n-e9P"/>
+                    </connections>
+                </tabBarController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="14" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="132" y="180"/>
+        </scene>
+        <!--Tree List View Controller-->
+        <scene sceneID="4G5-Wu-eRW">
+            <objects>
+                <tableViewController id="MMC-2I-Ak6" customClass="TreeListViewController" sceneMemberID="viewController">
+                    <tableView key="view" opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="NDS-ju-hlO">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <gestureRecognizers/>
+                        <searchBar key="tableHeaderView" opaque="NO" contentMode="redraw" translucent="NO" id="hw4-rb-koP">
+                            <rect key="frame" x="0.0" y="64" width="320" height="44"/>
+                            <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                            <color key="tintColor" red="0.3360770089285714" green="0.23684237225207028" blue="0.1051582446801769" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="barTintColor" red="0.33333334329999997" green="0.22745099660000001" blue="0.1294117719" alpha="1" colorSpace="deviceRGB"/>
+                            <textInputTraits key="textInputTraits" autocorrectionType="no"/>
+                            <connections>
+                                <outlet property="delegate" destination="MMC-2I-Ak6" id="gUw-wR-VgD"/>
+                            </connections>
+                        </searchBar>
+                    </tableView>
+                    <navigationItem key="navigationItem" id="LEf-7o-VDN">
+                        <nil key="title"/>
+                        <segmentedControl key="titleView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="bar" selectedSegmentIndex="0" id="Ywr-Cx-iOQ">
+                            <rect key="frame" x="8" y="6" width="304" height="33"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <segments>
+                                <segment title="Common Name"/>
+                                <segment title="Scientific Name"/>
+                            </segments>
+                            <connections>
+                                <action selector="segmentChanged:" destination="MMC-2I-Ak6" eventType="valueChanged" id="QUM-fe-MSh"/>
+                            </connections>
+                        </segmentedControl>
+                    </navigationItem>
+                    <connections>
+                        <outlet property="searchDisplayController" destination="DGy-kE-dI4" id="rP4-ve-KmH"/>
+                        <outlet property="segmentControl" destination="Ywr-Cx-iOQ" id="enu-Rj-mPm"/>
+                        <outlet property="treeSearchBar" destination="hw4-rb-koP" id="H9v-h1-jIa"/>
+                        <segue destination="YBe-yQ-V4N" kind="push" identifier="showTreeInfo" id="TV8-CT-pVh"/>
+                    </connections>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="CbH-Z7-VoT" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <searchDisplayController id="DGy-kE-dI4">
+                    <connections>
+                        <outlet property="delegate" destination="MMC-2I-Ak6" id="nv5-j7-om0"/>
+                        <outlet property="searchBar" destination="hw4-rb-koP" id="VCd-GR-hnc"/>
+                        <outlet property="searchContentsController" destination="MMC-2I-Ak6" id="JcT-Yi-hDR"/>
+                        <outlet property="searchResultsDataSource" destination="MMC-2I-Ak6" id="fBH-pR-fah"/>
+                        <outlet property="searchResultsDelegate" destination="MMC-2I-Ak6" id="JWQ-kt-faW"/>
+                    </connections>
+                </searchDisplayController>
+            </objects>
+            <point key="canvasLocation" x="920" y="-263"/>
+        </scene>
+        <!--Root View Controller-->
+        <scene sceneID="3rH-Ir-pHy">
+            <objects>
+                <tableViewController id="JjY-Lp-Ib4" customClass="IdentifyHomeViewController" sceneMemberID="viewController">
+                    <tableView key="view" opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="Wrw-xa-XOE">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <gestureRecognizers/>
+                        <sections/>
+                    </tableView>
+                    <navigationItem key="navigationItem" title="Root View Controller" id="SOk-fq-yjS"/>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="7dF-xQ-Up3" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1044" y="484"/>
+        </scene>
+        <!--Identify-->
+        <scene sceneID="wIF-Km-arc">
+            <objects>
+                <navigationController definesPresentationContext="YES" id="zO6-Df-0ir" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="Identify" image="IdentifyIcon.png" id="kpd-uy-tvm"/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="ft7-An-54q">
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="JjY-Lp-Ib4" kind="relationship" relationship="rootViewController" id="RyE-M3-i82"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="PwS-mM-svl" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="510" y="484"/>
+        </scene>
+        <!--Tree Info View Controller-->
+        <scene sceneID="OHY-RR-BBL">
+            <objects>
+                <viewController storyboardIdentifier="treeInfo" useStoryboardIdentifierAsRestorationIdentifier="YES" id="YBe-yQ-V4N" customClass="TreeInfoViewController" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="fKi-vh-rax">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Ginkgobiloba.jpg" id="wVz-Ax-pfO">
+                                <rect key="frame" x="0.0" y="56" width="320" height="410"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="TreeLowerRectangleBackground.png" id="VgB-tU-4We">
+                                <rect key="frame" x="0.0" y="456" width="320" height="64"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="AA5-I2-0OE">
+                                <rect key="frame" x="0.0" y="401" width="55" height="55"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                                <state key="normal" backgroundImage="TreeShareButton.png">
+                                    <color key="titleColor" red="0.19607843459999999" green="0.30980393290000002" blue="0.52156865600000002" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <state key="highlighted">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="shareButtonPressed:" destination="YBe-yQ-V4N" eventType="touchUpInside" id="n7G-tt-63X"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="dBK-dy-egv">
+                                <rect key="frame" x="265" y="401" width="55" height="55"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                                <state key="normal" backgroundImage="TreeInfoButton.png">
+                                    <color key="titleColor" red="0.19607843459999999" green="0.30980393290000002" blue="0.52156865600000002" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <state key="highlighted">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="moreInfoPressed:" destination="YBe-yQ-V4N" eventType="touchUpInside" id="AxY-QS-8w3"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Label" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="7oc-pY-h3j">
+                                <rect key="frame" x="20" y="464" width="280" height="22"/>
+                                <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="19"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Label" textAlignment="center" lineBreakMode="wordWrap" baselineAdjustment="alignBaselines" adjustsLetterSpacingToFitWidth="YES" adjustsFontSizeToFit="NO" id="aIW-sa-IAo">
+                                <rect key="frame" x="20" y="494" width="280" height="21"/>
+                                <fontDescription key="fontDescription" name="Helvetica-Oblique" family="Helvetica" pointSize="15"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" image="TreeImageShadowOverlay.png" id="tLi-1K-p65">
+                                <rect key="frame" x="0.0" y="57" width="320" height="400"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                        <gestureRecognizers/>
+                        <connections>
+                            <outletCollection property="gestureRecognizers" destination="C8Z-ks-ure" appends="YES" id="VoA-Iy-Dxg"/>
+                        </connections>
+                    </view>
+                    <navigationItem key="navigationItem" id="xym-SH-QMJ"/>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
+                    <connections>
+                        <outlet property="commonNameLabel" destination="7oc-pY-h3j" id="rlZ-4Q-Qji"/>
+                        <outlet property="labelBackground" destination="VgB-tU-4We" id="ISX-y5-5h2"/>
+                        <outlet property="moreInfoButton" destination="dBK-dy-egv" id="NPJ-X2-8Tg"/>
+                        <outlet property="scientNameLabel" destination="aIW-sa-IAo" id="8yF-iM-xyz"/>
+                        <outlet property="shareButton" destination="AA5-I2-0OE" id="q5U-Dz-V0v"/>
+                        <outlet property="treeImageOverlay" destination="tLi-1K-p65" id="deA-Mp-uVI"/>
+                        <outlet property="treeImageView" destination="wVz-Ax-pfO" id="ajg-fY-cyj"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Ex4-b9-AcA" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <swipeGestureRecognizer direction="right" id="C8Z-ks-ure">
+                    <connections>
+                        <action selector="exit:" destination="YBe-yQ-V4N" id="pUl-Zv-GU9"/>
+                    </connections>
+                </swipeGestureRecognizer>
+            </objects>
+            <point key="canvasLocation" x="1318" y="-263"/>
+        </scene>
+        <!--Species List-->
+        <scene sceneID="C4F-bK-OEg">
+            <objects>
+                <navigationController definesPresentationContext="YES" id="LEZ-wc-7dq" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="Species List" image="TreeIcon.png" id="nKu-FN-hTI"/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="GKF-6g-OCh">
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="MMC-2I-Ak6" kind="relationship" relationship="rootViewController" id="Sjm-1i-HzB"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="eVF-J5-nc8" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="535" y="-263"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Ginkgobiloba.jpg" width="320" height="385"/>
+        <image name="IdentifyIcon.png" width="30" height="30"/>
+        <image name="TreeIcon.png" width="30" height="30"/>
+        <image name="TreeImageShadowOverlay.png" width="320" height="385"/>
+        <image name="TreeInfoButton.png" width="55" height="55"/>
+        <image name="TreeLowerRectangleBackground.png" width="320" height="64"/>
+        <image name="TreeShareButton.png" width="55" height="55"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

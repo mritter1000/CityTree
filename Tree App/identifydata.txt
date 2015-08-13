@@ -1,0 +1,801 @@
+1.	Broad-leaved trees >>>>> go to 5 in group key [broadleaves]
+2.	Conifers >>>>> go to 4 in group key [conifers]
+3.	Palms >>>>> go to palm key [palms]
+4.	Palm-like trees with long sword-shaped leaves (>8” long) >>>>> go to group 1 [palm-like]
+
+Group Key 
+4. Leaves scale-like or awl-like, almost completely covering branchlets, mostly <1/2 in. long—Group 2 [scale-like leaves]
+4’ Leaves needle-like, 3/4 in. long or longer—Group 3 [needle-like leaves]
+4’’ Leaves absent, apparently absent, or minute
+2. Tree thorny, flowers yellow—Mexican Palo Verde (Parkinsonia aculeata)
+2’ Branchlets ribbed, with whorls of minute leaves, lacking salt crystals—Horsetail Tree (Casuarina cunninghamiana)
+2’’ Branchlets not ribbed, with a single, minute, scale-like leaf at each node, salt crystals often apparent—Athel Tree (Tamarix aphylla)
+5. Leaves compound (divided into leaflets) [compound leaves]
+6. Leaves palmately compound—Group 4 [leaflets stalked]
+6’ Leaves pinnately or bipinnately compound [bipinnatepinnate leaves]
+7. Leaves attached oppositely (2 per node)—Group 5 [opposite]
+7’ Leaves attached alternately (1 per node)—Group 6 [alternate]
+5’ Leaves simple (with undivided blades, deeply lobed leaves are still simple) [simple leaves]
+8. Leaves attached oppositely (2 per node) or whorled (3 or more per node)—Group 7 [oppositewhorled]
+8’ Leaves attached alternately (1 per node) [alternate]
+9. Leaf tip notched or truncate [notchedtruncate leaves]
+10. Leaves fan-shaped—Ginkgo (Ginkgo biloba)
+10’ Leaves with four or more pointed lobes, veins pinnate—Tulip Tree (Liriodendron tulipifera)
+10’’ Notch in leaf tip extending 1/3 down blade, flowers >1.5 in. wide, orchid-like—Orchid Trees (Bauhinia spp.)
+10’’’ Notch in leaf tip <1/4 in. or leaf without apical notch, flowers <1 in. wide, not orchid-like—Redbuds (Cercis spp.)
+9’ Leaf tip pointed or rounded, not notched or truncate [pointedrounded leaf tip]
+13. Leaf edge smooth (without teeth or lobes), wavy or not—Group 8 [smooth margins]
+13’ Leaf edge toothed or lobed [toothedlobed margins]
+14. Leaves palmately veined and/or palmately lobed (with veins and lobes radiating outward from a central point near the leaf base)—Group 9 [veins palmate]
+14’ Leaves pinnately veined and/or pinnately lobed (with one main vein extending from the leaf base to the tip, smaller veins branching from that main vein, and lobes or teeth along the edges) [veins pinnate]
+15. Trees evergreen (leaves usually thick and leathery, found on older stems)—Group 10 
+15’ Tree deciduous (leaves usually thinner, not found on older stems, leaf scars found on older stems, bud scale scars often present)—Group 11
+
+Group 1 
+1. Leaf edge with conspicuous teeth—Tree Aloe (Aloe barberae)
+1’ Leaf edge of all leaves smooth
+3. Leaves widest at the base; fruit orange; seeds 1 to 3—Dragon Tree (Dracaena draco)
+3’ Leaves widest at the middle; fruit blue or whitish; seeds numerous—Cabbage Palm (Cordyline australis)
+1’’ Leaf edge with minute, sharp teeth (some occasionally smooth)
+4. Leaves <1 in. wide and >24 in. long—Pony Tail Palm (Beaucarnea recurvata)
+4’ Leaves >1 in. wide, and if not >1 in. wide then <12 in. long
+5. Leaves 10 in. long or less—Joshua Tree (Yucca brevifolia)
+5’ Leaves 12 in. long or more—Giant Yucca (Yucca elephantipes)
+
+Group 2
+1. Tree distinctly columnar [tree columnar]
+5. Branchlets rope-like; leaves >1/4 in. long, spreading; tree leaning—Cook Pine (Araucaria columnaris)
+5’ Branchlets not rope-like; leaves <1/4 in. long, tightly pressed to stem; tree not leaning—Italian Cypress (Cupressus sempervirens)
+1’ Tree pyramidal, dome-shaped, tiered, or irregularly shaped, but not distinctly columnar [tree pyramidal]
+6. Branchlets forming flat, two-dimensional sprays
+7. Leaves four per node—Incense Cedar (Calocedrus decurrens)
+7’ Leaves two per node—Port Orford Cedar (Chamaecyparis lawsoniana)
+6’ Branchlets forming three-dimensional (not flat) sprays
+8. Leaves whorled in threes and/or opposite; seed cones fleshy, blue, berry-like—Junipers (Juniperus chinensis)
+8’ Leaves alternate or opposite, never whorled in threes; seed cones woody, brown
+9. Leaves >1/4 in. long, spreading
+10. Bark fibrous, reddish-brown; seed cones <1.5 in. wide—Japanese Cryptomeria (Cryptomeria japonica)
+10’ Bark smooth, gray, peeling, warty; seed cones >3 in. wide—Araucaria (Araucaria spp.)
+9’ Leaves <1/4 in. long, tightly pressed to and overlapping on stem
+11. Leaves alternate, spiraling, awl-like—Giant Sequoia (Sequoiadendron giganteum)
+11’ Leaves opposite, scale-like—Monterey Cypress (Hesperocyparis macrocarpa)
+
+Group 3
+1. Needle-like structures are actually jointed, ribbed branches with minute, whorled, scale-like leaves—Horsetail Tree (Casuarina cunninghamiana)
+1’ Needle-like structures are unjointed leaves
+2. Leaves clustered in bundles [needles bundled]
+3. Leaves in clusters of 2 to 5, each cluster surrounded at base by a sheath of scales—Pines (Pinus spp.)
+3’ Leaves in dense clusters of 10 or more on short, stubby, lateral branchlets; sheath of scales absent—Cedars (Cedrus spp.)
+2’ Leaves borne singly along stems, not clustered [needles single]
+4. Leaves opposite—Dawn Redwood (Metasequoia glyptostroboides) [needles opposite]
+4’ Leaves alternate [needles alternate]
+5. Bark gray, smooth, peeling, warty; seed cones >3 in. wide—Araucaria (Araucaria spp.)
+5’ Bark reddish brown to brown or gray, fibrous; seed cones <1.5 in. wide
+6. Foliage deciduous or partly so—Bald Cypresses (Taxodium spp.)
+6’ Foliage evergreen
+7. Leaves attached to branchlets with a distinct, short stalk [needle with stalk]
+8. Leaves same color on both sides—Fern Pine (Afrocarpus falcatus)
+8’ Leaves distinctly lighter on underside
+9. Leaves >1/4 in. wide—Yew Pine (Podocarpus macrophyllus)
+9’ Leaves <1/4 in. wide
+10. Densely branched shrub; seed cones red, fleshy—Yews (Taxus baccata)
+10’ Large tree; seed cones brown, woody—Douglas Firs (Pseudotsuga spp.)
+7’ Leaves sessile or tapering only slightly to branchlets [needle without stalk]
+11. Leaves with a distinct keel, triangular in cross section—Japanese Cryptomeria (Cryptomeria japonica)
+11’ Leaves more or less flat—Coast Redwood (Sequoia sempervirens)
+
+Group 4
+1. Leaflets 3
+2. Leaves alternate [alternate]
+3. Leaflets >3/4 in. wide, stalked—Coral Trees (Erythrina spp.)
+3’ Leaflets 1/2 in. wide or less, sessile—African Sumac (Rhus lancea)
+2’ Leaves opposite or whorled [oppositewhorled]
+4. Leaflet edge smooth—Puriri (Vitex lucens) [leaflet margin smooth]
+4’ Leaflet edge irregularly toothed or lobed—Box Elder (Acer negundo) [leaflet margin toothed]
+1’ Leaflets 5 or more
+5. Leaves alternate [alternate]
+6. Leaflet edge serrate—Floss Silk Tree (Ceiba speciosa) [serrate]
+6’ Leaflet edge smooth—Umbrella Tree (Schefflera actinophylla) [leaflet margin smooth1]
+5’ Leaves opposite or whorled [oppositewhorled]
+7. Leaflet edge smooth, leaves covered with golden hairs—Golden Trumpet Tree (Handroanthus chrysotrichus)
+7’ Leaflet edge toothed, leaves hairless or not
+8. Leaflets sessile [leaflets sessile]
+9. Flowers red—Red Horse Chestnut (Aesculus x carnea)
+9’ Flowers white—European Horse Chestnut (Aesculus hippocastanum)
+8’ Leaflets stalked [leaflets stalked]
+10. Leaflet stalks all similar in length; fruit spherical; tree deciduous in winter—California Buckeye (Aesculus californica)
+10’ Leaflet stalks of differing lengths; fruit a linear, narrow capsule; tree with leaves in winter—Pink Trumpet Tree (Handroanthus impetiginosus)
+
+Group 5
+1. Leaves bipinnately compound (twice divided) [leaves bipinnate]
+2. Leaves with >10 pairs of primary leaflets—Jacaranda (Jacaranda mimosifolia)
+2’ Leaves with <5 pairs of primary leaflets—Catalina Ironwood (Lyonothamnus floribundus ssp asplenifolius)
+1’ Leaves pinnately compound (once divided) [leaves pinnate]
+3. Leaflets 5 or fewer
+4. Leaflet edge smooth—Puriri (Vitex lucens) [leaflet margin smooth]
+4’ Leaflet edge irregularly toothed or lobed—Box Elder (Acer negundo) [leaflet margin toothed]
+3’ Leaflets 7 or more
+5. Leaflet stalks >1/4 in. long—Ashes (Fraxinus spp.)
+5’ Leaflets sessile or with stalks <1/4 in.
+6. Leaflet edge divided or lobed—Catalina Ironwood (Lyonothamnus floribundus ssp asplenifolius)
+6’ Leaflet edge smooth, flat, or wavy
+7. Leaflet tip rounded or slightly notched—Tipu Tree (Tipuana tipu) [leaflet tip rounded]
+7’ Leaflet tip pointed or tapering to a point [leaflet tip pointed]
+8. Leaflets <3/4 in. wide—Raywood Ash (Fraxinus angustifolia 'Raywood')
+8’ Leaflets >1 in. wide
+9. Rachis covered with rusty hairs, flowers red and orange—African Tulip Tree (Spathodea campanulata)
+9’ Rachis without rusty hairs, flowers yellow with red stripes—Markhamia (Markhamia lutea)
+
+
+Group 6
+1. Leaflets 3
+2. Leaflets >3/4 in. wide, stalked—Coral Trees (Erythrina spp.)
+2’ Leaflets <1/2 in. wide, sessile—African Sumac (Rhus lancea)
+1’ Leaflets 5 or more
+3. Leaves bipinnately compound (twice divided) [leaves bipinnate]
+4. Tree with thorns or spines
+5. Thorns single; rachis flattened, and often forked—Mexican Palo Verde (Parkinsonia aculeata)
+5’ Thorns branched; rachis round in cross section, not forked—Honey Locust (Gleditsia triacanthos)
+4’ Tree lacking thorns or spines
+6. Leaves with raised spherical glands on upper surface of rachis; flowers yellow, clustered in spherical heads or spikes—Acacias (Acacia spp.){2}
+6’ Leaves without glands on upper surface; flowers varying
+7. Leaflet edge smooth or only slightly toothed
+8. Leaflet bases symmetrical; flowers green; fruit >1 in. wide—Honey Locust (Gleditsia triacanthos)
+8’ Leaflet bases distinctly asymmetrical; flowers pink; fruit <3/4 in. wide—Silk Tree (Albizia julibrissin)
+7’ Leaflet edge conspicuously serrate, irregularly toothed, or lobed
+9. Leaflet undersides hairy and silver—Silk Oak (Grevillea robusta)
+9’ Leaflet undersides hairless
+10. Bark rough, dark brown; tree deciduous; flowers purple; fruit not inflated—Chinaberry (Melia azedarach)
+10’ Bark smooth, gray; tree evergreen or partly deciduous; flowers yellow; fruit inflated (Koelreuteria spp.)
+34. Leaflet bases conspicuously asymmetric; petals 5; bark scaly—Flamegold (Koelreuteria elegans)
+34’ Leaflet bases symmetric (or only slightly asymmetric); petals 4 (rarely 5); bark smooth—Chinese Flame Tree (Koelreuteria bipinnata)
+3’ Leaves pinnately compound (once divided) [leaves pinnate]
+11. Leaves even pinnate (lacking a single terminal leaflet, with a pair of leaflets at the tip) [leaf even pinnate]
+12. Leaflets <1.5 in. long—Honey Locust (Gleditsia triacanthos)
+12’ Leaflets 1.5 in. long or longer
+13. Leaflets <1/2 in. wide—Peruvian Pepper Tree (Schinus molle)
+13’ Leaflets 3/4 in. wide or greater
+14. Leaflets with a rounded or notched tip [leaflet tip rounded]
+15. Leaflets <2 times longer than wide; edges flat; fruit cylindrical—Carob Tree (Ceratonia siliqua)
+15’ Leaflets 2 times longer than wide; edges rolled under; fruit spherical—Carrotwood (Cupaniopsis anacardioides)
+14’ Leaflet with a pointed tip [leaflet tip pointed]
+17. Leaflets stalked; flowers large and golden; tree evergreen; fruit >6 in. long, square in cross section—Gold Medallion Tree (Cassia leptophylla)
+17’ Leaflets sessile or nearly so; flowers inconspicuous; tree deciduous; fruit spherical, <1/2 in. wide—Chinese Pistache (Pistacia chinensis)
+11’ Leaves odd pinnate (with a single terminal leaflet) [leaf odd pinnate]
+18. Leaflet edge toothed or lobed
+19. Leaflet undersides hairy and silver—Silk Oak (Grevillea robusta)
+19’ Leaflet undersides green, hairless
+20. Leaflets <1/2 in. wide
+21. Leaflet tip tapering to a point; flowers white; fruit spherical, red—Peruvian Pepper Tree (Schinus molle)
+21’ Leaflet tip rounded to a point; flowers green; fruit a strap-like legume, brown—Honey Locust (Gleditsia triacanthos)
+20’ Leaflets 3/4 in. wide or greater
+22. Leaflets coarsely toothed, doubly serrate with small teeth on larger teeth—Goldenrain Tree (Koelreuteria paniculata)
+22’ Leaflets evenly toothed, singly serrate
+23. Leaflets farthest from the leaf base largest; fruit four-sided, splitting at maturity—Pecan (Carya illinoinensis)
+23’ Leaflets uniform in size or middle ones largest; fruit round, not splitting—Walnuts (Juglans spp.)
+18’ Leaflet edge smooth
+24. Leaflets stalked [leaves stalked]
+25. Leaflet tip tapering to a point
+26. Mature leaves mostly >12 in. long—Tree of Heaven (Ailanthus altissima)
+26’ Mature leaves <12 in. long—Japanese Pagoda Tree (Sophora japonica)
+25’ Leaflet tip rounded or rounded to a point and/or notched
+27. Leaflet leathery; tree evergreen; most leaflet tips notched—Carrotwood (Cupaniopsis anacardioides)
+27’ Leaflet papery (not leathery); tree deciduous; most leaflet tips not notched
+28. Leaves with >20 leaflets; flowers yellow; fruit winged—Tipu Tree (Tipuana tipu)
+28’ Leaves with <20 leaflets; flowers white or pink; fruit not winged—Black Locust (Robinia pseudoacacia)
+24’ Leaflets sessile or nearly so [leaves sessile]
+29. Leaflet tip rounded and usually notched—Carrotwood (Cupaniopsis anacardioides)
+29’ Leaflet tip pointed, not notched
+30. Leaflets 1/4 in. wide or less—Peruvian Pepper Tree (Schinus molle)
+30’ Leaflets 1/2 in. wide or greater
+31. Leaflets asymmetrical, sickle-shaped—South African Plum (Harpephyllum caffrum)
+31’ Leaflets symmetrical, egg- or spearhead-shaped
+32. Leaflets >1.5 in. wide—English Walnut (Juglans regia)
+32’ Leaflets <1.5 in. wide
+33. Leaflet tip rounded to a point; rachis distinctly winged; leaflets leathery; tree evergreen; flowers with petals—Brazilian Pepper Tree (Schinus terebinthifolius)
+33’ Leaflet tip tapering to a point; rachis not winged; leaflets papery; tree deciduous; flowers without petals—Chinese Pistache (Pistacia chinensis)
+
+Group 7
+1. Leaves whorled, or both whorled and opposite on same tree
+2. Leaf underside woolly white—Pineapple Guava (Feijoa sellowiana)
+2’ Leaf underside green, leaf edge toothed—Macadamia nut (Macadamia integrifolia)
+2’’ Leaf underside green, leaf edge smooth
+99. Leaves evergreen, thick, leathery; flowers radially symmetrical—Oleander (Nerium oleander)
+99’ Leaves deciduous, thin, papery; flowers bilateral—Desert Willow (Chitalpa tashkentensis)
+1’ Leaves always opposite [opposite]
+3. Leaves >8 in. wide
+4. Leaves mostly egg-shaped; fruit a long cylindrical capsule; flowers white or yellow—Catalpa (Catalpa spp.)
+4’ Leaves mostly heart-shaped; fruit an egg-shaped capsule; flowers purple—Empress Trees (Paulownia tomentosa)
+3’ Leaves <6 in. wide
+5. Leaves palmately veined [veins palmate]
+6. Leaves heart-shaped, edge with rounded teeth; fruit a follicle—Katsura Tree (Cercidiphyllum japonicum)
+6’ Leave not heart-shaped, edge lobed and often with pointed teeth, or occasionally smooth; fruit with two wings—Maples (Acer spp.)
+5’ Leaves pinnately veined [veins pinnate1]
+6. Leaves bluish green or bluish gray (glaucous); petals and sepals fused into a bud cap
+7. Shrub with several trunks; bark smooth; all leaves without a leaf stalk—Silver Mountain Gum (Eucalyptus pulverulenta)
+7’ Tree with one trunk; bark rough; some leaves with a stalk—Argyle Apple (Eucalyptus cinerea)
+6’ Leaves green
+8. Leaves stalk absent or nearly so (<1/8 in. long) [leaves sessile]
+9. Bark smooth, tan-colored; leaves 3/4 in. wide or wider—Crape Myrtle (Lagerstroemia spp.)
+9’ Bark rough, dark brown; leaves <1/2 in. wide—Desert Willow (Chilopsis linearis)
+9’’ Bark thick, papery, and peeling; leaves <1/4 in. wide—Flaxleaf Paperbark (Melaleuca linariifolia)
+8’ Leaves clearly stalked [leaves stalked]
+10. Leaves 1/4 in. wide and linear (8 times longer than wide)—Desert Willow (Chilopsis linearis)
+10’ Leaves 1/2 in. wide or wider, not linear
+11. Leaf undersides white and woolly
+12. Leaves egg-shaped, with rounded tip; flowers red—New Zealand Christmas Tree (Metrosideros excelsa)
+12’ Leaves shaped like spearheads, or oval-shaped, with pointed tip; flowers white—Olive (Olea europaea)
+11’ Leaf undersides green, light green, or gray (occasionally hairy, but not white and woolly)
+13. Secondary leaf veins curving upward from the midvein to the tip; when leaves are torn in half, vein strings are visible between pieces; flowers subtended by showy colorful or white bracts—Dogwoods (Cornus spp.)
+13’ Most secondary leaf veins parallel; no vein strings visible between torn leaf halves; showy bracts absent
+14. New stem growth square in cross section, with two fleshy protrusions above each node; young leaves reddish—Brush Cherry (Syzygium australe)
+14’ New stem growth round in cross section, no protrusions above nodes; young leaves green or occasionally red
+15. Leaves shaped like spearheads [leaves spearhead]
+16. Leaves thin, papery; tree deciduous; flowers pink—Desert Willow (Chitalpa tashkentensis)
+16’ Leave thick, leathery; tree evergreen, Eucalyptus-like; flowers white—Rose Gum (Angophora costata)
+15’ Leaves egg-shaped, oval, or long oval [leaves oval]
+17. Leaf stalk and base of midvein on underside of leaf hairy; deciduous; bark dark brown and rough; flowers white—Chinese Fringe Tree (Chionanthus retusus)
+17’ Leaf stalk and underside hairless; branchlets gray and green; evergreen; bark gray and smooth; leaf stalks and branchlets gray and green; leaves with translucent dots, with >10 pairs of lateral veins; flowers pink purple—Cape Chestnut (Calodendrum capense)
+17’’ Leaf stalk and underside hairless; branchlets reddish brown; evergreen; leaves lacking dots, with <5 pairs of lateral veins; flowers white—Privets (Ligustrum lucidum)
+
+Group 8
+1. Bottlebrushes: flower clusters resembling bottle brushes; clusters of sessile, cup-shaped, woody fruits persisting along stems (Bottlebrushes, Paperbarks, and Melaleucas)—Bottlebrushes (Callistemon spp.)
+1’ Flower clusters not resembling bottle brushes; tree without clusters of sessile, woody fruits persisting along stems
+3. Acacias: leaves are mostly <1 in. wide, and with an inconspicuous yellow gland 1/8 in. to 1/2 in. away from the node on the upper edge; flowers cream to bright yellow; fruit a leathery legume—Acacias (Acacia spp.){5}[acacia]
+3’ Leaves not phyllodes; tree without the combination of characters described above
+4. Most leaves 1/4 in. wide or less
+5. Leaves <1 in. long
+6. Leaf tips spiny, leaves sessile; tree a large conifer
+99. Leaves spreading, often arranged in two rows, narrowing at the base, stiff but flexible—Bunya Bunya (Araucaria bidwillii)
+99’ Leaves strongly overlapping, often spirally arranged, barely narrowing at the base, stiff and rigid—Monkey Puzzle (Araucaria araucana)
+6’ Leaf tips rounded with a small nipple, leaves stalked; tree small, flowering—Tea Trees (Leptospermum laevigatum)
+5’ Leaves >1.25 in. long
+7. Leaves lemon-scented when crushed; bark smooth and cream-colored—Lemon Scented Gum (Corymbia citriodora)
+7’ Leaves unscented or smelling medicinal or spicy when crushed (but not lemon scented); bark varying
+8. Branch ends thorny—Simple-leaved Pepper Tree (Schinus polygamus)
+8’ Branch ends not thorny
+9. Leaves with translucent dots when held to the light
+10. Flowers and fruit at branch ends; no leaf vein parallel to leaf edge; bark shallowly furrowed and gray—Australian Willow (Geijera parviflora)
+10’ Flowers and fruit in leaf axils; leaf vein parallel to leaf edge conspicuous; bark varying
+11. Bark smooth, flaking, white or gray; flowers yellow—Water Gum (Tristaniopsis laurina)
+11’ Bark fibrous brown; flowers white
+12. Petals fused into a green bud cap; leaves bluish green; branchlets straight; mature trees >40 ft.—Narrow-Leaf Peppermint (Eucalyptus nicholii)
+12’ Petals white, conspicuous; leaves olive green; branchlets zigzagged; mature trees 20 to 40 ft.—Willow Peppermint (Agonis flexuosa)
+9’ Leaves without translucent dots
+13. Mature leaves mostly <2 in. long—Fern Pine (Afrocarpus falcatus)
+13’ Mature leaves mostly >2.5 in. long
+14. Leaves reddish purple or bronze, occasionally sticky, glandular, edges rolled downward—Hopseed (Dodonaea viscosa)
+14’ Leaves green, not glandular, edges flat
+15. Leaf midrib extending beyond blade, ending in a short apical hook; branchlets drooping; fruit an orange capsule—Narrow-Leaf Pittosporum (Pittosporum angustifolium)
+15’ Leaf midrib not extending beyond blade; branchlets upright; fruit-like seed blue with a red, fleshy attachment—Yew Pine (Podocarpus macrophyllus)
+4’ Most leaves 3/4 in. wide or greater
+16. Tree bleeding milky white sap when damaged (when a leaf is pulled off)
+17. Tree deciduous; leaves with two swollen glands at attachment of leaf blade and leaf stalk—Chinese Tallow Tree (Triadica sebifera) [leaf gland]
+17’ Tree evergreen; leaves without glands (Ficus spp.)
+92. Terminal bud covered by 1 (often reddish) sheath (stipule)—Rubber Tree (Ficus elastica)
+92’ Terminal bud covered by 2 sheaths (stipules)
+93. Leaves covered with very fine rust-colored hairs (at least when young)
+94. Mature trees with large buttress roots; leaves 2.5 to 5 in. wide, figs . to 1 in. wide—Moreton Bay Fig (Ficus macrophylla)
+94’ Mature trees without large buttress roots, leaves 1.5 to 2.5 in. wide, figs 3/4 to 1 in. wide—Rusty Leaf Fig (Ficus rubiginosa)
+93’ Leaves hairless
+95. Leaf veins inconspicuous, very numerous, leaf with a long, pointed tip—Weeping Fig (Ficus benjamina)
+95’ Leaf veins conspicuous, usually <10, leaf without a long tip—Indian Laurel Fig (Ficus microcarpa)
+16’ Tree without milky white sap
+18. Leaves lemon-scented when crushed; bark smooth and cream-colored—Lemon Scented Gum (Corymbia citriodora)
+18’ Leaves unscented or smelling medicinal or spicy when crushed (but not lemon-scented); bark varying
+19. Leaves with translucent dots when held to the light
+20. Petals fused into a bud cap; fruit a woody capsule—Eucalypts (Eucalyptus spp.)
+20’ Petals conspicuous, not fused
+21. Bark smooth, peeling away in irregular strips and plates; flowers yellow; fruit brown, woody—Water Gum (Tristaniopsis laurina)
+21’ Bark smooth or rough, not peeling away; flowers white; fruit fleshy
+22. Leaf stalk winged or margined, jointed at base of blade; fruit >2 in. wide, orange to yellow—Citrus (Citrus spp.)
+22’ Leaf stalk not winged; fruit <1 in. wide, red—Myoporum (Myoporum laetum)
+19’ Leaves without translucent dots
+23. Leaves heart-shaped—Eastern Redbud (Cercis canadensis)
+23’ Leaves not heart-shaped
+24. Leaf undersides white, yellowish-white, scaly or woolly (but not rust-colored)
+25. Edges of some leaves toothed; fruit an acorn; bark dark gray to black—Holly Oak (Quercus ilex)
+25’ Edges of all leaves smooth; fruit a capsule; bark varying
+26. Leaf underside scaly; seeds reddish brown, not sticky—Primrose Tree (Lagunaria patersonia)
+26’ Leaf underside woolly; seeds black, sticky—Karo (Pittosporum crassifolium)
+24’ Leaf underside green, light green, or rust-colored, occasionally sparsely hairy (but not white, yellowish-white, woolly, or scaly)
+27. Leaf underside with rust-colored hairs (at least when young), upper surface dark green, shiny
+28. Flowers at branch ends; leaf undersides light green and rusty—Southern Magnolia (Magnolia grandiflora)
+28’ Flowers in leaf axils; leaf undersides pale waxy, bluish white and rusty—Sweet Michelia (Michelia doltsopa)
+27’ Leaf underside green, light green, or gray, upper surface dull or shiny
+29. Leaf egg-shaped, upper surface slightly rough to the touch, with minute stiff hairs; flowers >2 in. wide—Saucer Magnolia (Magnolia x soulangeana)
+29’ Leaf spearhead-shaped, upper surface smooth to the touch, dull, hairless; flowers about 1.5 in. wide—Desert Willow (Chitalpa tashkentensis)
+29’’ Leaf variously shaped, upper surface smooth to the touch, shiny, hairless; flower <1.5 in. wide
+30. Leaf stalks and branchlets with fine hairs; flowers white to yellow—Sweetshade (Hymenosporum flavum)
+30’ Leaf stalks, young leaves, and branchlets hairless; flowers varying in color
+31. Leaf stalk swollen at tip where attached to leaf blade; fruit a woody canoe-like follicle (Brachychiton spp.)
+32. Leaves diamond-shaped; flowers white, hairless inside; mature trunk moderately swollen—Kurrajong (Brachychiton populneus)
+32’ Leaves spearhead-shaped and/or palmate; flowers yellow or cream-colored, hairy inside; mature trunk very swollen—Queensland Bottle Tree (Brachychiton rupestris)
+31’ Leaf stalk without swelling at the tip, leaf margins smooth or wavy; fruit varying
+33. Leaves with 3 main veins converging at 2 glands, smelling of camphor when crushed—Camphor Tree (Cinnamomum camphora)
+33’ Leaves with 3 main veins, no camphor smell—Chinese Hackberry (Celtis sinensis)
+33’’ Leaves with 1 main central vein, no camphor smell
+34. Leaves with two swollen glands at attachment of leaf blade and leaf stalk—Chinese Tallow Tree (Triadica sebifera)
+34’ Leaves without swollen glands, edges wavy; flowers white (Pittosporum spp.)
+35. Fruit diameter 3/8 in. or less, leaf mid-vein white—Lemonwood (Pittosporum eugenioides)
+35’ Fruit diameter >1/2 in. leaf midvein green
+36. Leaves >4 in. long, fruit bright orange, flowers white—Mock Orange (Pittosporum undulatum)
+36’ Leaves <4 in. long, fruit greenish brown, flowers dark red, purple, or black—Kohuhu (Pittosporum tenuifolium)
+34’’ Leaves without swollen glands, edges flat
+37. Leaves sessile or leaf stalk <1⁄8 in., young stems square—Crape Myrtle (Lagerstroemia spp.)
+37’ Leaf stalk >1⁄8 in., young stems square or round in cross section
+38. Fruit a brown, woody capsule; tree Eucalyptus-like, bark smooth or rough
+39. Fruit 3/4 in. wide or wider; flowers red, orange, or pink—Red Flowering Gum (Corymbia ficifolia)
+39’ Fruit <1/2 in. wide; petals not obvious in flowers, fused into a cap—Eucalypts (Eucalyptus spp.)
+39’’ Fruit <1/2 in. wide; petals obvious, white; bark cinnamon-brown—Brisbane Box (Lophostemon confertus)
+39’’’ Fruit <1/2 in. wide; petals yellow; bark gray or white—Water Gum (Tristaniopsis laurina)
+38’ Fruit fleshy, black, blue or green; tree not Eucalyptus-like; bark rough
+40. Leaves strongly scented, spicy smelling when crushed (bay leaves)—Grecian Laurel or Sweet Bay (Laurus nobilis)
+40’ Leaves not spicy scented, thin, deciduous; fruit <1/2 in. wide—Sour Gum or Tupelo (Nyssa sylvatica)
+40’’Leaves not spicy scented, thick, leathery, evergreen; fruit >1/2 in. wide
+41. Leaves 1 in. wide or less; fruit <1.5 in. wide—Carolina Laurel (Prunus caroliniana)
+41’ Leaves >1.5 in. wide, fruit >2 in. wide—Avocado (Persea americana)
+
+Group 9
+1. Tree bleeding milky white sap when damaged (when a leaf is pulled off); deciduous stipules forming a ring-like scar around each node
+2. Leaves deeply 3- to 5-lobed; flowers inconspicuous, borne inside figs—Edible Fig (Ficus carica)
+2’ Leaves irregularly lobed, or some not lobed and with toothed edges; flowers in spikes—White Mulberry (Morus alba)
+1’ Tree not bleeding milky white sap; stipular ring scar present or not 
+3. Leaves not palmately lobed and leaf edges toothed
+4. Leaf underside hairy (tomentose), at least along veins, or bluish green with wax (glaucous)—Linden Trees (Tilia spp.)
+4’ Leaf underside hairless
+5. Leaves triangle-shaped—Lombardy Poplar (Populus nigra 'Italica')
+5’ Leaves egg- or spearhead-shaped
+6. Leaf veins conspicuously raised on underside; flowers blue or purple; fruit green or brown—Ray Hartman Ceanothus (Ceanothus 'Ray Hartman')
+6’ Leaf veins not conspicuously raised on underside; flowers white; fruit red—Lavalle Hawthorn (Crataegus x lavallei)
+3’ Leaves palmately lobed and lobes toothed or lobes smooth
+7. Mature leaves <3 in. wide; trees occasionally thorny—Hawthorns (Crataegus spp.)
+7’ Mature leaves 3.5 in. wide or greater, trees never thorny
+8. Base of leaf stalk swollen, covering axillary bud, stipules encircling the stem and leaving a ring scar after falling—Sycamores (Platanus spp.)
+8’ Base of leaf stalk not swollen, stipules free, no ring scar around nodes
+9. Leaves spicy when crushed, lobe edges regularly sawtoothed (Liquidambar spp.)
+10. Leaves mostly 5-pointed—Sweetgum (Liquidambar styraciflua)
+10’ Leaves mostly 3-pointed—Formosan Sweetgum (Liquidambar formosana)
+9’ Leaves unscented even when crushed, lobe edges smooth or irregularly toothed
+11. Leaf bases heart-shaped, lobes often overlapping, flowers >2 in. wide, upright—Monkey Hand Tree (Chiranthodendron pentadactylon)
+11’ Leaf bases tapering, rounded, or truncated at leaf stalk, basal lobes if present not overlapping; flowers <1.5 in. wide, facing downward
+12. Fruit a membranous capsule, green, splitting open before completely developed—Chinese Parasol Tree (Firmiana simplex)
+12’ Fruit a woody follicle, brown, not splitting until developed—Bottle Trees (Brachychiton spp.)
+
+Group 10
+1. Fruit an acorn—Oaks (Quercus spp.)
+1’ Fruit not an acorn
+2. Leaves with translucent dots when held to the light
+3. Leaf stalks winged or margined, jointed at base of blade; fruit >2 in. wide, orange to yellow—Citrus (Citrus spp.)
+3’ Leaf stalks not winged; fruit <1 in. wide, red—Myoporum (Myoporum laetum)
+2’ Leaves without translucent dots
+4. Leaves <1/2 in. wide; tree form weeping—Mayten Tree (Maytenus boaria)
+4’ Leaves >1/2 in. wide or greater; tree form varying
+5. Leaf edges wavy and spiny
+6. Spines large, fewer than 20 per leaf—American Holly (Ilex opaca)
+6’ Spines small, more than 20 per leaf—Hollyleaf Cherry (Prunus ilicifolia)
+5’ Leaf edges variously sawtoothed, smooth, and/or lobed all on the same tree
+7. Most leaves > 4 in. long—Firewheel Tree (Stenocarpus sinuatus)
+7’ Most leaves < 3 in. long—Lily of the Valley Tree (Crinodendron patagua)
+5’’ Leaf edges evenly sawtoothed throughout, and flat
+8. Leaf blades hairy, < 3 in. long—Toyon (Heteromeles arbutifolia)
+8’ Leaf blades hairy, > 4 in. long—Bronze Loquat (Eriobotrya deflexa)
+8’’ Leaf blades hairless on both surfaces
+9. Young stems with conspicuous glandular hairs—Strawberry Tree (Arbutus 'Marina')
+9’ Young stems hairless or occasionally with fine, non-glandular hairs
+10. Leaf stalks >1/2 in. long, leaves egg-shaped, new growth green—Evergreen Pear (Pyrus kawakamii)
+10’ Leaf stalks >1/2 in. long, leaves oblong, new growth red—Chinese Photinia (Photinia serrulata)
+10’’ Leaf stalks <1/2 in. long
+11. Leaves <3/4 in. wide; bark shedding in small plates, with orange patches—Chinese Elm (Ulmus parvifolia)
+11’ Leaves >1 in. wide; bark varying
+12. Edges of mature leaves red—Xylosma (Xylosma congestum)
+12’ Edges of mature leaves green
+13. Leaves <2 in. long—Hollyleaf Cherry (Prunus ilicifolia)
+13’ Leaves >2 in. long, leaf tips narrowing to a point—Portugal Laurel (Prunus lusitanica)
+13’’ Leaves >2 in. long, leaf tips rounded and abruptly short-pointed—Cherry Laurel (Prunus laurocerasus)
+
+Group 11
+1. Fruit an acorn—Oaks (Quercus spp.){5}
+1’ Fruit not an acorn
+2. Leaf bases asymmetrical, sometimes only slightly so [leaf base asymmetrical]
+3. Leaf edge with silky hairs—European Beech (Fagus sylvatica)
+3’ Leaf edge without silky hairs
+4. Leaves with 3 major veins spreading from base; bark smooth or with irregular corky warts and/or ridges; fruit fleshy—Hackberries (Celtis spp.)
+4’ Leaves with 1 main central vein; bark scaly or fissured into parallel ridges, without warty protrusions; fruit dry
+5. Bark scaly, with orange and gray patches; leaf edges with bristle-tipped teeth; fruit not winged—Sawleaf Zelkova (Zelkova serrata)
+5’ Bark fissured, brown; leaf edges sawtoothed (often with small teeth on larger teeth), teeth not bristle-tipped; fruit winged—Elms (Ulmus spp.)
+2’ Leaf bases symmetrical [leaf base symmetrical]
+6. Willows: trees dioecious, with a single bud-scale leaf; seeds attached to silky hairs—Weeping Willow (Salix babylonica)
+6’ Trees monoecious or flowers perfect, with multiple bud-scale leaves; seeds without silky hairs; not a willow
+7. Fruit fleshy, colorful
+8. Fruit a one-seeded drupe, without floral remnants on the end—Flowering Cherries and Plums (Prunus spp.){5}
+8’ Fruit a multi-seeded pome, the tip with obvious 5-parted floral remnants on the end
+9. Flowers clustered on branched inflorescences; fruit with 1 to 5 bony nuts—Hawthorns (Crataegus spp.)
+9’ Flowers solitary; fruit divided into 1 to 5 chambers, each with 1 or more seeds
+10. Fruit without gritty cells, red, yellow, or purple; styles joined at the base—Flowering Crab Apples (Malus x floribunda)
+10’ Fruit with gritty cells, brown or tan; styles free (Pyrus spp.)
+11. Tree deciduous for >1 month; bark gray, shallowly fissured, often with a compact branching structure at the top of the trunk—Callery or Bradford Pear (Pyrus calleryana)
+11’ Tree deciduous only for a short period or evergreen; bark dark gray to black, deeply checkered; tree with an open, branching structure—Evergreen Pear (Pyrus kawakamii)
+7’ Fruit dry, woody, brown
+12. Leaf edge wavy, with teeth only above the middle—Persian Parrotia (Parrotia persica)
+12’ Leaf edge flat, regularly sawtoothed throughout
+13. Leaves rough to the touch, edges with bristle-tipped teeth—Sawleaf Zelkova (Zelkova serrata)
+13’ Leaves not rough to the touch, edge teeth not bristle-tipped
+14. Bark smooth, mottled, with orange patches, shed in plates—Chinese Elm (Ulmus parvifolia)
+14’ Bark rough, fibrous, dark brown to black, or smooth and gray or white
+15. Fruits are tiny, flattened, winged nuts housed in cone-like structures
+16. Cones on branched stems, persistent, woody—Alders (Alnus spp.)
+16’ Cones solitary, breaking apart at maturity—Birches (Betula spp.)
+15’ Fruits are large nuts, not in cone-like structures, not flattened or winged
+17. Male flowers in erect clusters; fruit attached to a leafy bract—European Hornbeam (Carpinus betulus)
+17’ Male flowers hanging in catkins; fruit a nut enclosed in a scale-like bract—Turkish Hazel (Corylus colurna)
+
+Key to Commonly Cultivated Palms
+1. Leaves bipinnately divided [bipinnate palm]
+2. Leaves distributed along upper trunk—Mountain Fishtail Palm (Caryota maxima)
+2’ Leaves tightly clustered at top of trunk—Giant Fishtail Palm (Caryota gigas)
+1’ Leaves pinnately divided or palmately divided [pinnatepalmate palm]
+3. Leaves pinnately divided (feather palms) [pinnate palm]
+4. Lower leaflets becoming sharp spines (Phoenix spp.)
+6. Trunk diameter >1.5 ft.
+7. Leaves pale green or bluish green—Date Palm (Phoenix dactylifera)
+7’ Leaves dark green—Canary Island Date Palm (Phoenix canariensis)
+6’ Trunk diameter <1.5 ft.
+8. Leaves <4 ft. long—Pygmy Date Palm (Phoenix roebelenii)
+8’ Leaves >5 ft. long—Senegal Date Palm (Phoenix reclinata)
+4’ Lower leaflets similar to upper leaflets, blade-like, not spine-like
+9. Trunk diameter >3 ft.—Chilean Wine Palm (Jubaea chilensis)
+9’ Trunk diameter <2 ft.
+10. Flower clusters arising from below the green crown shaft of the trunk, >2 ft. below the leaves—King Palm (Archontophoenix cunninghamiana)
+10’ Flower clusters arising from among the leaves
+11. Leaves arranged in three ranks; triangular in cross-section—Triangle Palm (Dypsis decaryi)
+11’ Leaves arranged spiraling; not triangular in cross-section
+12. Petiole edges with spiny black teeth; leaves gray-green, to bluish-gray—Pindo Palm (Butia capitata)
+12’ Petiole edges lacking spines; leaves green
+13. Trunk >15 in. diameter; leaflets feather duster-like, arising from rachis in 3 or more planes, bent and drooping at the tip—Queen Palm (Syagrus romanzoffiana)
+13’ Trunk <15 in. diameter; leaflets emanating from rachis in 1 or 2 planes, not bent at the tip
+14. Leaves arching; leaflets arising from rachis in 2 planes—Curly Palm (Howea belmoreana)
+14’ Leaves flat, not recurved; leaflets arising from rachis in 1 plane, drooping, not ascending—Kentia Palm (Howea forsteriana)
+3’ Leaves palmately divided (fan palms) [palmate palm]
+15. Petiole edges lacking spiny teeth (especially on leaves of mature trees) or occasionally with very small, sharp teeth
+16. Trunk covered with brown hairs and remnants of old leaf bases—Windmill Palm (Trachycarpus fortunei)
+16’ Trunk smooth and gray, hairless, sometimes with old leaf bases
+17. Leaves grayish-green to blue-green—Blue Fan Palm (Brahea armata)
+17’ Leaves green
+18. Leaflet tips upright; fruit >3/4 inch in diameter, yellow-brown to black—Guadalupe Palm (Brahea edulis)
+18’ Leaflet tips drooping; fruit 1/2 inch in diameter or less, greenish-blue—Chinese Fountain Palm (Livistona chinensis)
+15’ Petiole edges with conspicuous spiny teeth, at least at the base (especially on leaves of mature trees) [teeth]
+19. Leaves silvery gray to blue-green
+20. Palm clumping and branching with multiple stems from the ground—Mediterranean Fan Palm (Chamaerops humilis)
+20’ Palm tree-like with single trunk—Blue Fan Palm (Brahea armata)
+19’ Leaves green
+21. Palm clumping and branching with multiple stems from the ground—Mediterranean Fan Palm (Chamaerops humilis)
+21’ Palm tree-like with single trunk
+22. Old leaves not forming a skirt around the trunk, leaf blade deeply divided nearly to point of origin; leaf base edges modified into flat, cloth-like sheets—Australian Fan Palm (Livistona australis)
+22’ Old leaves forming a skirt around the trunk (unless pruned off); leaf blade only divided to about half way at most; leaf base edges not modified into flat, cloth-like sheets
+23. Trunk stout (usually >2 ft. in diameter), base usually not swollen; leaf tips with many hair-like fibers; crown of tree loose and open—California Fan Palm (Washingtonia filifera)
+23’ Trunk slender (usually <2 ft. in diameter), usually tapering abruptly from a swollen base; leaf tips with few hair-like fibers; crown of tree compact—Mexican Fan Palm (Washingtonia robusta)
+
+Key to Commonly Cultivated Bottle Trees
+1. Leaves distinctly lighter and hairy on the underside—Lacebark (Brachychiton discolor)
+1’ Leaves mostly the same color on both sides or only slightly lighter underneath, hairless
+2. Most leaves >4 in. wide; flowers scarlet red—Illawarra Flame Tree (Brachychiton acerifolius)
+2’ Most leaves <3.5 in. wide; flowers white or cream-colored, and spotted
+3. Leaves on young trees entire or shallowly lobed; flowers white, hairless inside; mature trunk moderately swollen—Kurrajong (Brachychiton populneus)
+3’ Leaves on young trees deeply lobed or palmate; flowers yellow or cream-colored, hairy inside; mature trunk conspicuously swollen in the middle—Queensland Bottle Tree (Brachychiton rupestris)
+
+Key to Commonly Cultivated Coral Trees
+1. Leaflets elliptic, widest in the middle; terminal leaflet often longer than wide [erythrina eliptic]
+2. Bark rough, furrowed; prickles present on some or all leaves; seeds brown; inflorescence born on shoot tips—Cockspur Coral Tree (Erythrina crista-galli)
+2’ Bark smooth, not deeply furrowed; prickles absent from leaves; seeds red, orange, or buff; inflorescence born in leaf axils—Brazilian Coral Tree (Erythrina falcata)
+1’ Leaflets ovate, broadly ovate, deltate, always widest towards the base; terminal leaflet often similar in length and width [erythrina deltate]
+3. Prickles present and obvious on leaves
+4. Bark rusty, orange, or cinnamon; banner petal linear, > 6 times longer than wide—Naked Coral Tree (Erythrina coralloides) [banner linear]
+4’ Bark gray, green, or brown; banner petal ovate or long ovate, < 5 times longer than wide—Natal Coral Tree (Erythrina humeana) [banner broad]
+3’ Prickles absent from leaves or found only rarely on leaves
+5. Banner petal short and broad, strongly reflexed, exposing the stamens, separated from other flower parts—South African Coral Tree (Erythrina caffra) [banner broad]
+5’ Banner petal long and narrow, tube-like, only slightly reflexed, enclosing the stamens, folded around other flower parts [banner linear]
+6. Keel petals not fused, about 1/4 the length of the banner petal; fruits never formed; calyx two-lipped—Sykes's Coral Tree (Erythrina sykesii)
+6’ Keel petals fused, about 1/8 the length of the banner petal; fruits often present on mature trees; calyx cup-shaped—Transvaal Coral Tree (Erythrina lysistemon)
+
+Key to Commonly Cultivated Figs
+1. Leaves 3- to 5-lobed, deciduous, with 3 main veins; tree cultivated agriculturally—Edible Fig (Ficus carica)
+1’ Leaves not lobed, evergreen, with 1 main vein; tree cultivated ornamentally
+2. Terminal bud covered by 1 (often reddish) sheath (stipule)—Rubber Tree (Ficus elastica)
+2’ Terminal bud covered by 2 sheaths (stipules)
+3. Leaves covered with very fine rust-colored hairs (at least when young)
+4. Mature trees with large buttress roots; leaves 2.5 to 5 in. wide, figs . to 1 in. wide—Moreton Bay Fig (Ficus macrophylla)
+4’ Mature trees without large buttress roots, leaves 1.5 to 2.5 in. wide, figs 3/4 to 1 in. wide—Rusty Leaf Fig (Ficus rubiginosa)
+3’ Leaves hairless
+5. Leaf veins inconspicuous, very numerous, leaf with a long, pointed tip—Weeping Fig (Ficus benjamina)
+5’ Leaf veins conspicuous, usually <10, leaf without a long tip—Indian Laurel Fig (Ficus microcarpa)
+
+Key to Commonly Cultivated Cedars
+1. Branches drooping—Deodar Cedar (Cedrus deodara)
+1’ Foliage blue, bluish-green, or grayish—Blue Atlas Cedar (Cedrus atlantica)
+1’’ Foliage green or dark green—Cedar of Lebanon (Cedrus libani)
+Key to Commonly Cultivated Eucalypts
+1. Leaves lighter green on the underside
+2. Bark rough, hard, thin, flaky; fruit 3/4 in. diameter or more—Red Flowering Gum (Corymbia ficifolia)
+2’ Bark rough, soft, thick, fibrous; fruit 1/2 in. diameter or less—Swamp Mahogany (Eucalyptus robusta)
+2’’ Bark smooth
+3. Bark with orange blotches; mature fruit ridged; fruit valves sunken inside fruit—Sugar Gum (Eucalyptus cladocalyx)
+3’. Bark bluish gray; mature fruit smooth; valves of fruit exserted, 4 or 5, curved inward; buds and fruit often glaucous—Rose Gum (Eucalyptus grandis)
+3’’ Bark bluish gray; mature fruit smooth; valves of mature fruit exserted, usually 4, erect; buds and fruit not glaucous—Sydney Blue Gum (Eucalyptus saligna)
+1’ Leaves the same color on both sides; bark rough 
+4. Leaves silver or bluish silver in color
+5. Leaves attached oppositely; flower buds and fruit grouped in threes—Argyle Apple (Eucalyptus cinerea)
+5’ Leaves attached alternately, mostly less than 1/2 in. wide at widest point—Narrow-Leaf Peppermint (Eucalyptus nicholii)
+5’’ Leaves attached alternately, mostly 3/4 in. wide or wider
+6. Bark dark brown to black, very rough and deeply furrowed—Red Iron Bark (Eucalyptus sideroxylon)
+6’ Bark light brown or gray, and scraggly; leaves round or only slightly longer than wide; flowers white—Silver Dollar Gum (Eucalyptus polyanthemos)
+6’’ Bark light brown or gray, and scraggly; leaves 3 to 4 times longer than broad; flowers pink—Coral Gum (Eucalyptus torquata)
+4’ Leaves green
+7. Leaves mostly less than 1/2 in. wide at widest point—Narrow Leaf Peppermint (Eucalyptus nicholii)
+7’ Leaves mostly 3/4 in. wide or wider; bark gray, finely furrowed; all stamens with anthers—Flooded Gum (Eucalyptus rudis)
+7’’ Leaves mostly 3/4 in. wide or wider; bark dark brown to black, very rough and deeply furrowed; some stamens without anthers—Red Iron Bark (Eucalyptus sideroxylon)
+1’’ Leaves the same color on both sides; bark smooth
+8. Buds and fruit produced singly; leaves over 8 in. long—Blue Gum (Eucalyptus globulus)
+8’ Buds and fruit clustered in threes or more; leaves less than 6 in. long, smelling like lemon when crushed—Lemon Scented Gum (Corymbia citriodora)
+8’’ Buds and fruit clustered in threes or more; leaves less than 6 in. long, smelling medicinal or spicy when crushed (but not like lemon)
+9. Leaves silver, bluish silver, or bluish-gray in color (covered with wax)
+10. Shrub with several trunks; all leaves opposite, without a leaf stalk—Silver Mountain Gum (Eucalyptus pulverulenta)
+10’ Tree with one trunk; some leaves alternate, stalked; buds and fruits in simple clusters of three in leaf axils—Cider Gum (Eucalyptus gunnii)
+10’’ Tree with one trunk; some leaves alternate, stalked; buds and fruits in branched clusters of seven at shoot tips—Silver Dollar Gum (Eucalyptus polyanthemos)
+
+9’ Leaves green, olive green, or dark green (not waxy)
+11. Leaves egg-shaped or round, barely twice as long as wide; buds and fruit fused into a spherical cluster the size of a small fist—Spider Gum (Eucalyptus conferruminata)
+11’ Leaves shaped like a long spearhead, 3 to 4 times longer than wide; buds and fruit not fused
+12. Buds and fruit in clusters of five or more (usually seven)
+13. Bud hemispheric, with a distinct beak; branches often drooping—Red Gum (Eucalyptus camaldulensis)
+13’ Bud horn-shaped or conical, not beaked; branches often steeply ascending—Forest Red Gum (Eucalyptus tereticornis)
+12’ Buds and fruit always in clusters of three
+14. Bark shed in long slender ribbons; buds with a short stalk; all stamens with anthers—Ribbon Gum (Eucalyptus viminalis) [euc with anthers]
+14’ Bark shed in plates or patches; buds borne on a long slender stalk; some stamens without anthers—White Iron Bark (Eucalyptus leucoxylon) [euc without anthers]
+
+Key to Commonly Cultivated Hackberries
+1. Leaf undersides uniformly fuzzy and felty over the whole surface, leaf edges conspicuously toothed to well below middle, each edge with >20 teeth—European Hackberry (Celtis australis)
+1’ Leaf undersides hairless or with hairs only along veins, leaf edges smooth (entire) or with teeth only towards the tip, each edge with <16 teeth
+2. Leaves egg-shaped, widest in the middle; bark smooth, without corky outgrowths—Chinese Hackberry (Celtis sinensis)
+2’ Leaves narrowly elongate, widest in the basal half, often tapered to an acute tip; bark with prominent corky warts and ridges
+3. Leaves paler beneath; fruit >1/2 in. diameter, purple when mature—Common Hackberry (Celtis occidentalis)
+3’ Leaves same color on both sides, fruit <1/2 in. diameter, brownish orange or red when mature—Sugarberry (Celtis laevigata)
+
+Key to Commonly Cultivated Ashes
+1. Leaflets without a stalk (sessile or nearly so) [leaves sessile]
+2. Leaflets shaped like narrow spearheads, dark green, usually 7 to 9 per leaf—Raywood Ash (Fraxinus angustifolia 'Raywood')
+2’ Leaflets oblong or egg-shaped, light green, usually 5 to 7 per leaf—Oregon Ash (Fraxinus latifolia)
+1’ Leaflets stalked [leaves stalked]
+3. Flowers whitish-green, emerging at branch tips, after leaves—Flowering Ash (Fraxinus ornus)
+3’ Flowers greenish, in leaf axils, emerging before or with new leaves
+4. Leaf undersides hairy, especially on central axis—Green Ash (Fraxinus pennsylvanica)
+4’ Leaf underside hairless, or with only stiff hairs bordering leaf veins
+5. Leaflets usually 5 per leaf (sometimes 3 to 7)—Modesto Ash (Fraxinus velutina)
+5’ Leaflets usually 7 per leaf (sometimes 5 to 9)
+6. Leaflet underside green, edges regularly toothed; tree evergreen or briefly deciduous; bark scaly—Shamel Ash (Fraxinus uhdei)
+6’ Leaflet undersides whitish, edges smooth, wavy, or sparsely toothed; tree deciduous; bark with interlacing ridges—White Ash (Fraxinus americana)
+Key to Commonly Cultivated Acacias
+1. Leaves bipinnately compound [leaves bipinnate]
+2. Leaves strongly glaucous (light gray and covered with wax), occasionally purple, with 3 to 5 pairs of primary leaflets—Bailey Acacia (Acacia baileyana)
+2’ Leaves not distinctly glaucous, usually green, sometimes silvery or bluish gray, with 6 or more pairs of primary leaflets
+3. Branchlets hairless, with pronounced wing-like ridges, especially at nodes; primary leaflets not overlapping—Green Wattle (Acacia decurrens)
+3’ Branchlets with downy hair, angled, but not with pronounced wings; primary leaflets overlapping
+4. Lower surface of leaflets more or less the same color as the upper surface, both sparsely hairy; raised glands at attachment point of primary leaflets; fruit hairless, silver-blue; flowers golden—Silver Wattle (Acacia dealbata)
+4’ Lower surface of the leaflets distinctly paler (with silvery hairs) than the upper surface (hairless, green); raised glands between attachment points of primary leaflets; fruit hairy, dark brown; flowers cream-colored—Black Wattle (Acacia mearnsii)
+1’ Leaves simple [phyllode]
+5. Leaves needle-like, linear, <1/8 in. wide, spiny, whorled in threes—Star Acacia (Acacia verticillata)
+5’ Leaves blade-like >1/4 in. wide, alternate
+6. Leaves <1.5 in. long, triangle-shaped—Knife Acacia (Acacia cultriformis)
+6’ Leaves >2 in. long
+7. Tree weeping, with pendant, hanging branches
+8. Leaves covered with silvery gray down—Weeping Acacia (Acacia pendula)
+8’ Leaves hairless—Shoestring Acacia (Acacia stenophylla)
+7’ Tree or shrub with upright branches
+9. Leaves with one conspicuous central longitudinal nerve or vein
+10. Leaf base with obvious gland (1/8 in. wide) near pulvinus—Golden Wreath Wattle (Acacia saligna)
+10’ Leaf base with inconspicuous gland—Everblooming Acacia (Acacia retinodes)
+9’ Leaves with two or more conspicuous longitudinal veins, or obscure veins and nerves
+11. Plant a large, single-trunked tree; leaves dark green; flowers cream-colored—Blackwood Acacia (Acacia melanoxylon)
+11’ Plant a densely branched shrub; leaves light green; flowers bright yellow
+12. Flowers clustered in spikes—Sydney Golden Wattle (Acacia longifolia)
+12’ Flowers clustered in spherical heads—Red-Eyed Wattle (Acacia cyclops)
+
+Key to Commonly Cultivated Maples
+1. Leaves compound (with three or more leaflets)—Box Elder (Acer negundo) [leaflet margin toothed]
+1’ Leaves simple [simple maple]
+2. Leaf undersides hairy, white, grayish white, or bluish gray
+3. Most leaves 1 to 3 in. wide
+4. Leaves usually not lobed, sometimes 3-lobed in young shoots—Smooth Leaf Maple (Acer oblongum)
+4’ Leaves always 3-lobed
+5. Leaf lateral lobes nearly same size as middle lobe—Trident Maple (Acer buergerianum)
+5’ Leaf lateral lobes usually smaller than middle lobe, leaves occasionally unlobed—Evergreen Maple (Acer paxii)
+3’ Most leaves >3 in. wide
+6. Middle lobe of most leaves wider near the middle than at the base, leaf underside bright white—Silver Maple (Acer saccharinum)
+6’ Middle lobe of most leaves widest at the base, leaf underside light gray, grayish white, or bluish gray
+7. Lobe edges smooth or wavy, or with rounded teeth—Sugar Maple (Acer saccharum)
+7’ Lobe edges irregularly or sharply toothed
+8. Leaves 2 to 4 in. wide, lobes sharply toothed, pointed at tip—Red Maple (Acer rubrum)
+8’ Leaves 3 to 7 in. wide, lobes with round teeth, rounded at tip—Sycamore Maple (Acer pseudoplatanus)
+2’ Leaf undersides hairless, green (although usually paler than the upper side), not white
+9. Leaves with 5 to 11 lobes, tree often small and multistemmed—Japanese Maple (Acer palmatum)
+9’ Leaves with 3 to 7 lobes, tree larger, often single stemmed
+10. Most leaves <3 in. wide—Hedge Maple (Acer campestre)
+10’ Most leaves 6 to 12 in. wide, lobes cut deeper than the middle of the leaf; sap in petiole white—Big Leaf Maple (Acer macrophyllum)
+10’’ Most leaves 3.5 to 8 in. wide, lobes not deeper than the middle of the leaf; sap in petiole white or clear
+12. Sap in petiole white; tips of leaf points reduced to a fine hair—Norway Maple (Acer platanoides)
+12’ Sap in petiole clear; tips of leaf points not reduced to a hair—Sugar Maple (Acer saccharum)
+
+Key to Commonly Cultivated Bottlebrushes, Paperbarks, and Melaleucas
+
+1. Flowers red; stamens fused into five bundles; bark often hard
+2. Branches pendant; stamens shed in a connected right; bark flaky, compacted—Weeping Bottlebrush (Callistemon viminalis)
+2’ Branches upright; stamens shed individually; bark fibrous, stringy—Lemon Bottlebrush (Callistemon citrinus)
+1’ Flowers white; stamens unfused or fused into a ring at the base; bark often soft, thick, papery, spongy
+3. Leaves >1.5 in. long—Cajeput Tree (Melaleuca quinquenervia)
+3’ Leaves <1 in. long
+4. Leaves oblong, oval, or lance-shaped [ovallance]
+5. Tree with pendant branches; flowers white; leaves sessile, sharply pointed—Prickly Paperbark (Melaleuca styphelioides)
+5’ Large shrub with upright branches; flowers pink; leaves with short petiole, abruptly pointed—Pink Melaleuca (Melaleuca nesophila)
+4’ Leaves linear [leaves linear]
+6. Leaves opposite or mostly so, especially on older growth—Flaxleaf Paperbark (Melaleuca linariifolia)
+6’ Leaves alternate, scattered, or in whorls, especially on older growth
+7. Leaves usually >3/4 in. long, tips with a distinct hook—Drooping Melaleuca (Melaleuca armillaris)
+7’ Leaves usually <3/4 in. long, tips straight or barely curving—Heath Melaleuca (Melaleuca ericifolia)
+
+Key to Commonly Cultivated Pittosporums
+1. Leaf underside densely hairy—Karo (Pittosporum crassifolium)
+1’ Leaf underside hairless (glabrous)
+2. Leaves linear, 1/4 in. wide or less—Willow Pittosporum (Pittosporum angustifolium)
+2’ Leaves oval, spear-shaped, or diamond-shaped, 1/2 in. wide or wider
+3. Leaves coarsely toothed, diamond-shaped—Diamond Leaf Pittosporum (Pittosporum rhombifolium)
+3’ Leaf edges toothless
+4. Leaf edges down-curved, not wavy—Tobira (Pittosporum tobira)
+4’ Leaf edges wavy (undulate)
+5. Fruit diameter 3/8 in. or less, leaf mid-vein white—Lemonwood (Pittosporum eugenioides)
+5’ Fruit diameter >1/2 in. leaf midvein green
+6. Leaves >4 in. long, fruit bright orange, flowers white—Mock Orange (Pittosporum undulatum)
+6’ Leaves <4 in. long, fruit greenish brown, flowers dark red, purple, or black—Kohuhu (Pittosporum tenuifolium)
+
+
+Key to Commonly Cultivated Oaks
+1. Tree evergreen, leaf edges toothed or smooth but not lobed
+2. Leaf underside hairless except for small tufts of hair in vein axils—Coast Live Oak (Quercus agrifolia)
+2’ Leaf underside fuzzy, white, dull, or gray with hairs
+3. Bark thick and corky—Cork Oak (Quercus suber)
+3’ Bark thin and scaly
+4. Leaf tip pointed—Holly Oak (Quercus ilex)
+4’ Leaf tip rounded—Southern Live Oak (Quercus virginiana)
+1’ Tree deciduous; leaf edges usually distinctly lobed
+5. Lobe tips spiny, pointed, or bristly
+6. Leaf upper surface dull green; leaf lobes usually extending less than half the distance to the midrib and tapering to their tips—Red Oak (Quercus rubra)
+6’ Leaf upper surface bright green or glossy; leaf lobes cut more than halfway to the midrib and not tapering evenly to their tips
+7. Lower branches drooping; leaf underside with conspicuous tufts of hair in vein axils; acorn cup very shallow (saucer-shaped); fall leaf color orange, brown—Pin Oak (Quercus palustris)
+7’ Lower branches erect; leaf underside with obscure tufts of hair in vein axils; acorn cup deep (hemispherical or cup-like); fall leaf color bright red—Scarlet Oak (Quercus coccinea)
+5’ Lobe tips rounded, not spiny or bristly
+8. Leaves 1 to 3 in. long, bluish green—Blue Oak (Quercus douglasii)
+8’ Leaves >3 in. long, green
+9. Leaf base with two ear-like lobes, leaves mostly >4 in. long—English Oak (Quercus robur)
+9’ Leaf base tapering to stalk, leaves mostly <4 in. long—Valley Oak (Quercus lobata)
+
+Key to Commonly Cultivated Elms
+1. Leaf edges mostly singly serrate, nearly symmetrical at the base [serrate symmetrical]
+2. Leaves evergreen or partly so, mostly <1 in. wide; bark smooth and flaking; fruit appearing in fall—Chinese Elm (Ulmus parvifolia)
+2’ Leaves deciduous, mostly 1 in. wide or more; bark rough; fruit appearing in spring—Siberian Elm (Ulmus pumila)
+1’ Leaf edges at least partially doubly serrate, asymmetrical at the base [double serrate asymmetrical]
+4. Leaf upper surface only slightly rough to the touch, tufts of hair only occasionally in lower surface vein axils; fruit edges hairy—American Elm (Ulmus americana)
+4’ Leaf upper surface very rough to the touch, tufts of hair always in lower surface vein axils; fruit edges hairless—English Elm (Ulmus procera)
+
+Key to Commonly Cultivated Pines
+1. Needles 5 per bundle—Torrey Pine (Pinus torreyana)
+1’ Needles 2 per bundle, mostly less than 3 in. long
+2. Cones on short stalks; foliage bluish green; often a large tree—Scotch Pine (Pinus sylvestris)
+2’ Cones not stalked; foliage dark green; often a small container or rock garden tree—Mugho Pine (Pinus mugo)
+1’’ Needles 2 per bundle, mostly 3 in. long or more
+3. Seed wing shorter than seed, tree crown rounded—Italian Stone Pine (Pinus pinea)
+3’ Seed wing longer than seed, tree shape varying
+4. Cones falling from tree at maturity (old cones not found on branches)
+5. Twigs covered with wax, needles slender—Japanese Red Pine (Pinus densiflora)
+5’ Twigs not covered with wax; needles stout—Japanese Black Pine (Pinus thunbergii)
+4’ Cones persisting on tree for many years (old branches with many cones)
+6. Cone scale rounded, without a prickle; crown light green—Aleppo Pine (Pinus halepensis)
+6’ Cone scale with a small prickle; crown dark green—Monterey Pine (Pinus radiata)
+1’’’ Needles 3 per bundle
+7. Needles mostly 6 in. long or more
+8. Foliage clearly drooping, cone scale with a sharp prickle—Jelecote Pine (Pinus patula)
+8’ Foliage slightly drooping, cone scale with a blunt prickle—Canary Island Pine (Pinus canariensis)
+7’ Needles mostly less than 6 in. long
+8. Cone scale rounded, without a prickle—Aleppo Pine (Pinus halepensis)
+8’ Cone scale with a small prickle—Monterey Pine (Pinus radiata)
+
+Key to Commonly Cultivated Araucarias
+1. Leaves 3/4 in. long or longer
+2. Leaves spreading, often arranged in two rows, narrowing at the base, stiff but flexible—Bunya Bunya (Araucaria bidwillii)
+2’ Leaves strongly overlapping, often spirally arranged, barely narrowing at the base, stiff and rigid—Monkey Puzzle (Araucaria araucana)
+1’ Leaves 1/2 in. long or shorter
+3. Crown of mature tree rounded, upper branches arching upward, foliage in dense tufts at ends of branches—Hoop Pine (Araucaria cunninghamii)
+3’ Crown of mature tree pointed, upper branches angled, foliage distributed throughout length of branches
+4. Mature tree columnar, often leaning—Cook Pine (Araucaria columnaris)
+4’ Mature tree conical, not leaning—Norfolk Island Pine (Araucaria heterophylla)
+
+Key to Commonly Cultivated Redbuds
+1. Single trunked tree, leaf tip truncate or pointed—Eastern Redbud (Cercis canadensis) [pointed]
+1’ Multi-trunked large shrub, leaf tip with a notch—Western Redbud (Cercis occidentalis) [notched]
+
+Key to Commonly Cultivated Orchid Trees
+1. Tree spiny, fruit usually present, flowers white—Brazilian Butterfly Tree (Bauhinia forficata)
+1’ Tree not spiny, fruit usually present, flowers pink—Purple Orchid Tree (Bauhinia variegata)
+1’’ Tree not spiny, fruit never formed, flowers purple—Hong Kong Orchid Tree (Bauhinia x blakeana)
+
+Key to Commonly Cultivated Bald Cypresses
+1. Foliage completely deciduous—Bald Cypresses (Taxodium distichum)
+1’ Foliage only partially deciduous—Montezuma Bald Cypresses (Taxodium mucronatum)
+
+Key to Commonly Cultivated Douglas Firs
+1. Cones greater than 3.5 inches long—(Pseudotsuga macrocarpa)
+1’ Cones less than 3 inches long—(Pseudotsuga menziesii)
+
+Key to Commonly Cultivated Catalpas
+1. Leaf unpleasant-smelling if crushed, tip shortly pointed, flowers <1.5 in. wide—Southern Catalpa (Catalpa bignonioides)
+1’ Leaf scentless, tip long-pointed, flowers >1.5 in. wide—Western Catalpa (Catalpa speciosa)
+
+Key to Commonly Cultivated Crape Myrtles
+1. Form tree-like, flowers variously colored, white, pink, red—Hybrid Crape Myrtle (Lagerstroemia hybrids)
+1’ Form shrub-like, flowers red—Crape Myrtle (Lagerstroemia indica)
+
+Key to Commonly Cultivated Walnuts
+1. Leaflets fewer than 11—English Walnut (Juglans regia)
+1’ Leaflets greater than 11, veins on underside with tufts of hair—Northern California Black Walnut (Juglans hindsii)
+1’’ Leaflets great than 11, veins on underside hairless—Southern California Black Walnut (Juglans californica)
+
+Key to Commonly Cultivated Flowering Cherries and Plums
+1. Trees evergreen; leaves leathery, dark green; flowers white, borne in spikes
+2. Leaves <2 in. long—Hollyleaf Cherry (Prunus ilicifolia)
+2’ Leaves >2 in. long
+3. Leaf edges smooth—Carolina Laurel (Prunus caroliniana)
+3’ Leaf edges finely and evenly sawtoothed or with a few spiny teeth, mostly toward the tip
+4. Leaf tips narrowing to a point—Portugal Laurel (Prunus lusitanica)
+4’ Leaf tips rounded and abruptly short-pointed—Cherry Laurel (Prunus laurocerasus)
+1’ Trees deciduous; leaves thin, bright green, bronze, or purple; flowers white to red, not borne in spikes
+5. Leaves usually purple or bronze when mature; tree blooming late winter—Purple Leaf Plum (Prunus cerasifera)
+5’ Leaves green when mature; tree blooming late winter or spring
+6. Flowers red to dark pink, pendulous, petals bell-shaped—Taiwan Cherry (Prunus campanulata)
+6’ Flowers white to pink, upright or pendulous, petals spreading
+7. Trunk warty, rough; flowers scented—Blireiana Plum (Prunus x blireana)
+7’ Trunk smooth (below graft union); flowers mostly scentless—Japanese Flowering Cherries (Prunus serrulata)
+
+Key to Commonly Cultivated Dogwoods
+1. Tree evergreen—Evergreen Dogwood (Cornus capitata)
+1’ Tree deciduous, with 4 colorful bracts—Flowering Dogwood (Cornus florida)
+1’’ Tree deciduous, with 6 white bracts—Western Dogwood (Cornus nuttallii)
+
+Key to Commonly Cultivated Hawthorns
+1. Leaves not lobed—Lavalle Hawthorn (Crataegus x lavallei)
+1’ Leaves distinctly lobed, spines stout, < 1 inch long—English Hawthorn (Crataegus laevigata)
+1’’ Leaves distinctly lobed, spines slender, > 1 inch long—Washington Hawthorn (Crataegus phaenopyrum)
+
+Key to Commonly Cultivated Linden Trees
+1. Leaf underside white, hairy—Silver Linden (Tilia tomentosa)
+1’ Leaf underside blue-green (glaucous), green, hairless, or hairy only along veins and in vein axils
+2. Leaves blue-green (glaucous) beneath—Littleleaf Linden (Tilia cordata)
+2’ Leaves green beneath
+3. Leaves sparsely hairy beneath, particularly along veins—Largeleaf Linden (Tilia platyphyllos)
+3’ Leaves hairless beneath except for tufts of hair in vein axils
+4. Leaves without tufts of hair in vein axils at leaf base; some stamens petal-like and without anthers (staminodes present)—American Linden (Tilia americana)
+4’ Leaves with tufts of hair in vein axils at leaf base; all stamens with anthers (staminodes absent)—Crimean Linden (Tilia x euchlora)
+
+Key to Commonly Cultivated Sycamores
+1. Lf lobes < 1/3 into blade, edges toothed—London Plane Tree (Platanus x hispanica)
+1’ Lf lobes generally > 1/3 blade, edges without teeth—Sycamore (Platanus racemosa)
+
+Key to Commonly Cultivated Citrus
+1. Fruit yellow or green—Lemon Tree (Citrus limon)
+1’ Fruit orange—Orange Tree (Citrus sinensis)
+
+Key to Commonly Cultivated Alders
+1. Leaves heart shaped—Italian Alder (Alnus cordata)
+1’ Leaves egg-shaped, with singly serrate edges—White Alder (Alnus rhombifolia)
+1’’ Leaves egg-shaped, with doubly serrate edges (smaller teeth on the edges of larger teeth)—Red Alder (Alnus rubra)
+
+Key to Commonly Cultivated Birches
+1. Bark smooth, white—White Birch (Betula pendula)
+1’ Bark shaggy or scaly, light brown, reddish brown, or light pink—River Birch (Betula nigra)
